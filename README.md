@@ -1,4 +1,4 @@
-L710/d2spr Build Instructions
+L710/d2vzw Build Instructions
 =======================
 http://wiki.cyanogenmod.org/w/Build_for_d2vzw
 ```
